@@ -29,3 +29,19 @@ The Course is found to be useful overall, please get the certificate as per your
 
 - **Example review of the Course**
 
+- **Workflow**
+
+![./images/week3-ml-workflow.PNG](./images/week3-ml-workflow.PNG)
+
+- **Cost**
+
+![./images/week3-oper-ml.PNG](./images/week3-oper-ml.PNG)
+
+- **Time**
+
+![./images/week3-oper-ml2.PNG](./images/week3-oper-ml2.PNG)
+
+- **Quality**
+
+![./images/week3-oper-ml3.PNG](./images/week3-oper-ml3.PNG)
+
