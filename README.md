@@ -11,6 +11,8 @@ The Course is found to be useful overall, please get the certificate as per your
 
 - **Example review of the Course**
 
+- **Week 1: [Graded Tool] Feature transformation with Amazon SageMaker processing job and Feature Store**
+
 - [./C2_W1_Assignment/C2_W1_Assignment.html](./C2_W1_Assignment/C2_W1_Assignment.html)
 - [./C2_W1_Assignment/C2_W1_Assignment.ipynb](./C2_W1_Assignment/C2_W1_Assignment.ipynb)
 - [./C2_W1_Assignment/C2_W1_Assignment.md](./C2_W1_Assignment/C2_W1_Assignment.md)
@@ -20,6 +22,8 @@ The Course is found to be useful overall, please get the certificate as per your
 #### 👷👷👷 Week 2: Train, Debug and Profile a Machine Learning Model
 
 - **Example review of the Course**
+
+- **Week 2: [Graded Tool] Train a review classifier with BERT and Amazon SageMaker**
 
 - [./C2_W2_Assignment/C2_W2_Assignment_Learner.ipynb](./C2_W2_Assignment/C2_W2_Assignment_Learner.ipynb)
 - [./C2_W2_Assignment/src/C2_W2_train_Learner.py](./C2_W2_Assignment/src/C2_W2_train_Learner.py)
