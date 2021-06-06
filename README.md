@@ -45,3 +45,10 @@ The Course is found to be useful overall, please get the certificate as per your
 
 ![./images/week3-oper-ml3.PNG](./images/week3-oper-ml3.PNG)
 
+- **Week 3: [Graded Tool] SageMaker pipelines to train a BERT-Based text classifier**
+
+- [./C2_W3_Assignment/C2_W3_Assignment_Learner.ipynb](./C2_W3_Assignment/C2_W3_Assignment_Learner.ipynb)
+- [./C2_W3_Assignment/src/evaluate_model_metrics.py](./C2_W3_Assignment/src/evaluate_model_metrics.py)
+- [./C2_W3_Assignment/src/inference.py](./C2_W3_Assignment/src/inference.py)
+- [./C2_W3_Assignment/src/prepare_data.py](./C2_W3_Assignment/src/prepare_data.py)
+- [./C2_W3_Assignment/src/train.py](./C2_W3_Assignment/src/train.py)
